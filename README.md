@@ -1,1 +1,2 @@
 # bemysight
+With the help of Deep learning Algorithms like Image Classification, Text Extraction and Image Captioning, the inability of blind people to describe visual contents or to read text from an image is unraveled. The integration of these models with a Text-to Speech Technology translates the captions generated to a form that is understandable by the blind. The client-server architecture based system is deployed so that people from different places can access the Web Application to generate audio for their images.
